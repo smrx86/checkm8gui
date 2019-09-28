@@ -11,5 +11,6 @@ To use:
 3. If you get "This app is damaged error, run this. "xattr -cr /Applications/checkm8.app"
 4. Open and enjoy!
 
+I'm NOT responsible if your brick your device
 
 Have Fun =P
