@@ -22,4 +22,6 @@ To use:
 
 I'm NOT responsible if your brick your device
 
+License is GNU GPL
+
 Have Fun =P
