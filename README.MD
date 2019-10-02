@@ -1,27 +1,22 @@
-IPWNDFU BY axi0mx ALL CREDIT GOES TO HIM. https://github.com/axi0mX/ipwndfu
+# checkm8gui - GUI for checkm8
 
-This just a basic gui for people that dont like command lines.
+### WARNING: THIS IS MEANT TO BE A TOOL FOR DEVELOPERS, TIE1R1 OR JACC DOES NOT TAKE RESPONSIBILITY TO ANYTHING YOU DO TO YOUR DEVICE.
 
-Message me on twitter if you need help @tie1r
+This is a GUI for (axi0mx's checkm8 bootrom exploit)[https://github.com/axi0mx/checkm8]. 
 
-This is fully open soucre!
-Feel free to fork or send push request!
+Leave an (issue)[https://github.com/tier1r/checkm8gui/issues] if you encounter an issue with the GUI.
 
-To build:
+The project is fully open source, so feel feel to contribute through a (pull request)[https://github.com/tier1r/checkm8gui/pulls].
+
+### To build:
 1. Clone the repo
 2. Open the xcode project
 3. Add your Apple ID for signing
 4. Press Run
 5. Profit?
 
-To use:
+### To use:
 1. Download from releases and extract it
 2. Drag checkm8.app in /Applications
 3. If you get "This app is damaged error, run this. "xattr -cr /Applications/checkm8.app"
 4. Open and enjoy!
-
-I'm NOT responsible if your brick your device
-
-License is GNU GPL
-
-Have Fun =P
