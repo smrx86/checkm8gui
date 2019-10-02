@@ -24,5 +24,7 @@ The project is fully open source, so feel feel to contribute through a [pull req
 ## Contributors
 
 tie1r: [GitHub](https://github.com/tie1r1) [Twitter](https://twitter.com/tie1r) [Website](https://tie1r.xyz)
+
 Jack LaFond: [GitHub](https://github.com/jacc) [Website](https://lafond.dev)
+
 Max Brigland: [GitHub](https://github.com/m4cs) [Twitter](https://twitter.com/maxbridgland) [Website](https://maxbridgland.com)
