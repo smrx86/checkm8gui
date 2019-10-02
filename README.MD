@@ -20,3 +20,9 @@ The project is fully open source, so feel feel to contribute through a [pull req
 2. Drag checkm8.app in /Applications/
 3. If you get "This app is damaged error, run this. "xattr -cr /Applications/checkm8.app"
 4. Open and enjoy!
+
+## Contributors
+
+tie1r: [GitHub](https://github.com/tie1r1) [Twitter](https://twitter.com/tie1r) [Website](https://tie1r.xyz)
+Jack LaFond: [GitHub](https://github.com/jacc) [Website](https://lafond.dev)
+Max Brigland: [GitHub](https://github.com/m4cs) [Twitter](https://twitter.com/maxbridgland) [Website](https://maxbridgland.com)
