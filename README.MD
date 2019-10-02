@@ -2,7 +2,7 @@
 
 ### WARNING: THIS IS MEANT TO BE A TOOL FOR DEVELOPERS, TIE1R1 OR JACC DOES NOT TAKE RESPONSIBILITY TO ANYTHING YOU DO TO YOUR DEVICE.
 
-This is a GUI for [axi0mx's checkm8 bootrom exploit](https://github.com/axi0mx/checkm8). 
+This is a GUI for [axi0mx's checkm8 bootrom exploit](https://github.com/axi0mx/ipwndfu). 
 
 Leave an [issue](https://github.com/tier1r/checkm8gui/issues) if you encounter an issue with the GUI.
 
